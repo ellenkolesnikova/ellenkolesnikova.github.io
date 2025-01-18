@@ -7,7 +7,7 @@ profile:
 published: true
 ---
 
-This website is currently just a template and is being worked on. Will be finished soon!
+This website is currently just a template and is being worked on. Will be finished soon! Don't bother clicking on the links above - they're still templates.
 
 ### Check out:
 
