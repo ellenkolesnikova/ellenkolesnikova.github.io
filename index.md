@@ -14,4 +14,4 @@ This website is a work in progress. Check back for more updates!
 - [My YouTube channel](https://www.youtube.com/@ellenkolesnikova5144){:target="_blank"} - right now just violin playing/auditions, possibly more stuff in the future
 - [Some coding projects](https://github.com/ellenkolesnikova/projects){:target="_blank"} - several projects ranging from basic data structures to assembly code and AI
 - [A simple technical introduction to ZK proofs](https://ellenkolesnikova.github.io/assets/files/zkintro.pdf){:target="_blank"} - I wrote this when studying zero-knowledge proofs
-- [A paper introducing backpropagation in neural networks](https://drive.google.com/file/d/1a_ZB11GzXT2wCapG2meBZhB1IPWfoB6d/view?usp=sharing){:target="_blank"} - I wrote this for my AP calc class
+- [A paper introducing backpropagation in neural networks](https://ellenkolesnikova.github.io/assets/files/neuralnetworks.pdf){:target="_blank"} - I wrote this for my AP calc class
