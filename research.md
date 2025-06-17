@@ -20,9 +20,9 @@ Work done as a part of an internship with [Prof. Xiao Wang (Northwestern Univers
 
 Digital Humanities: Identifying the author of a Medieval text
 ============
-The goal of this work (in collaboration with Prof. Juliana Viezure (Georgia Tech) and Jacob Young) is to identify the author of a medieval text - the *Passio Et Miracula Sancti Eadwardi Regis Et Martyris*. Our work proposes, with compelling evidence, an author for this text, disproving a previous authorship attribution. 
+The goal of this work (in collaboration with Prof. Juliana Viezure (Georgia Tech) and Jacob Young) is to identify the author of a medieval text - the *Passio Et Miracula Sancti Eadwardi Regis Et Martyris*. Our work proposes, with compelling evidence, an author for this text, disproving a previous authorship attribution. The new attribution contributes to a better understanding of religious life in England in the period immediately following the Norman Conquest.
 
-Our approach to authorship identification is three-pronged: through (1) traditional literary and historical analysis of the document, (2) standard stylometric analysis based on word frequency, and (3) machine learning. I am solely responsible for the machine learning part of this project; I trained an accurate model to distinguish the author (among four possible choices) of the examined Latin text. When running the Passio through my model, it classified the text with high confidence, corroborating and strengthening my co-authors' traditional and stylometric analyses.
+Our approach to authorship identification is three-pronged: through (1) traditional literary and historical analysis of the document, (2) standard stylometric analysis based on word frequency, and (3) machine learning. I am solely responsible for the machine learning part of this project; I trained an accurate model to distinguish the author (among four possible choices) of the examined Latin text. When running the *Passio* through my model, it classified the text with high confidence, corroborating and strengthening my co-authors' traditional and stylometric analyses.
 
 The corresponding paper is completed and will be submitted to a humanities journal.
 
