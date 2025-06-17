@@ -4,7 +4,11 @@ layout: default
 
 AI/Medicine: Safe+Natal
 ============
-Paper reporting on Safe+Natal work on improving pregnancy outcomes in Guatemala through an app that can conduct medical triage: https://arxiv.org/abs/2503.09659. Worked 3-5 hours a week since Sept 2023, plus audited several AI courses in preparation (hundreds of hours).
+[Paper](http://www.unexpected-vortices.com/sw/rippledoc/quick-markdown-example.html){:target="_blank"} reporting on Safe+Natal work on improving pregnancy outcomes in Guatemala through an app that can conduct medical triage: 
+
+
+
+https://arxiv.org/abs/2503.09659. Worked 3-5 hours a week since Sept 2023, plus audited several AI courses in preparation (hundreds of hours).
 
 
 
