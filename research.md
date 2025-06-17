@@ -13,7 +13,7 @@ My role in this larger project is to develop and test image recognition software
 
 Crypto: Private Repair of User-Flagged Failures in Text-to-Image Services
 ============
-This project focuses on using cryptographic tools (namely secure multiparty computation) to securely remove bias from generative AI models. Consider the setting where a privately owned pre-trained model may be biased, e.g., it only generates images of men (not women) in leadership positions. The goal is to use an external party’s advice (which is also private) to fine-tune the model to eliminate the specific bias. We achieve this by computing on encrypted data.
+This project focuses on using cryptographic tools (namely secure multiparty computation) to securely and privately remove bias from generative AI models. Consider the setting where a private pre-trained model may be biased, e.g., it only generates images of men (not women) in leadership positions. The goal is to use an external party’s advice (which is also private) to fine-tune the model to eliminate the specific bias. We achieve this by computing on encrypted data.
 
 Work done as a part of an internship with Prof. Xiao Wang (Northwestern University); the resulting paper was submitted to NeurIPS 2025.
 
