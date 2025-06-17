@@ -19,11 +19,11 @@ Awards and Recognitions
   2022 - concertmaster of the highest-level Georgia All State Middle School orchestra
   2023 - 3rd chair first violin in the highest-level Georgia All State 9-10 grade orchestra
   2023 - 2nd in state for GMTA competition (1st alternate for strings competition)
-  2024 - 2nd place and \$200 in school STEM fair
+  2024 - 2nd place and 200 dollars in school STEM fair
   2024 - one of 19 people accepted into the GHP program for computer science
   2025 - principal 2nd violin in 11/12 full orchestra GMEA all state
   2025 - one of 10 finalists in junior category in SVA violin concerto competition
-  2025 - 1st place and \$500 in school STEM fair
+  2025 - 1st place and 500 dollars in school STEM fair
   2025 - NCWIT Georgia Affiliate Winner
   2025 - (co-)author of paper on using AI to pregnancy triage in Guatemala. Work with Emory University
   2025 - (co-)author of paper on digital humanities (authorship attribution of medieval Latin text). Work with Georgia Tech
