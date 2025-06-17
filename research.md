@@ -4,7 +4,7 @@ layout: default
 
 Medicine: Safe+Natal
 ============
-I am working with [safe+natal](https://safenatal.org/){:target="_blank"} on improving pregnancy healthcare in rural Guatemala through ML-based diagnostics and triage. More specifically, the goal of this project is to provide a simple system that enables rural midwives from underserved communities to conduct basic pregnancy monitoring and identify cases that need to be referred to hospitals. We distributed $200 health monitor kits (including smartphone and very basic devices such as BP monitors and 1-dimensional doppler ultrasounds) to local midwives. Indigenous Maya communities do not commonly use written language, so we automatically transcribe and interpret readings from the health devices to enable timely healthcare decisions. Safe+Natal is tremendously successful: integrated with a Mayan hospital, it reduced maternal mortality from one of the highest in the Western Hemisphere to nearly zero! 
+I am working with [safe+natal](https://safenatal.org/){:target="_blank"} on improving pregnancy healthcare in rural Guatemala through ML-based diagnostics and triage. More specifically, the goal of this project is to provide a simple system that enables rural midwives from underserved communities to conduct basic pregnancy monitoring and identify cases that need to be referred to hospitals. We distributed $200 health monitor kits (including smartphone and very basic devices such as blood pressure monitors and 1-dimensional doppler ultrasounds) to local midwives. Indigenous Maya communities do not commonly use written language, so we automatically transcribe and interpret readings from the health devices to enable timely healthcare decisions. Safe+Natal is tremendously successful: integrated with a Mayan hospital, it reduced maternal mortality from one of the highest in the Western Hemisphere to nearly zero! 
 
 My role in this larger project is to develop and test image recognition software that transcribes readings from a blood pressure monitor. The challenge in this is to create an accurate model that works with all types of lighting and backgrounds.
 
@@ -13,8 +13,9 @@ My role in this larger project is to develop and test image recognition software
 
 Crypto: Private Repair of User-Flagged Failures in Text-to-Image Services
 ============
-Internship with Prof. Xiao Wang (Northwestern University). Work is on using cryptographic tools (namely secure multiparty computation) to securely remove bias from generative AI models. Consider the setting where a privately owned pre-trained model may be biased, e.g., it would only generate images of men in leadership positions. The goal is to use external party’s advice (which may also be sensitive) to fine tune the model to eliminate the bias. We achieve this by computing on encrypted data. Worked 3-5 hours a week since Aug 2024, plus audited several advanced cryptography courses in preparation (hundreds of hours).  Paper was submitted to NeurIPS 2025, a top AI venue.
+This project focuses on using cryptographic tools (namely secure multiparty computation) to securely remove bias from generative AI models. Consider the setting where a privately owned pre-trained model may be biased, e.g., it only generates images of men (not women) in leadership positions. The goal is to use an external party’s advice (which is also private) to finetune the model to eliminate the specific bias. We achieve this by computing on encrypted data.
 
+Work done as a part of an internship with Prof. Xiao Wang (Northwestern University); the resulting paper was submitted to NeurIPS 2025.
 
 Digital Humanities: Identifying the author of a Medieval text
 ============
