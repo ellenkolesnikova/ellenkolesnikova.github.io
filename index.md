@@ -25,7 +25,4 @@ Awards and Recognitions
   2025 - one of 10 finalists in junior category in SVA violin concerto competition
   2025 - 1st place and 500 dollars in school STEM fair
   2025 - NCWIT Georgia Affiliate Winner
-  2025 - (co-)author of paper on using AI to pregnancy triage in Guatemala. Work with Emory University
-  2025 - (co-)author of paper on digital humanities (authorship attribution of medieval Latin text). Work with Georgia Tech
-  2025 - (co-)author of paper on privately and securely removing biases (such as race or gender) from existing ML models. Work with Northwestern U.
   2021-2024 - Designed logos for conferences and workshops: Crypto 2021, Crypto 2022, CFAIL 2022, PKC 2023, CFAIL 2023, CFAIL 2024, Crypto 2024
