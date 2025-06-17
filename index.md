@@ -29,6 +29,3 @@ Violin
   - 2023 - 2nd in state for GMTA competition (1st alternate for strings competition)
   - 2025 - principal 2nd violin in 11/12 full orchestra GMEA all state
   - 2025 - one of 10 finalists in junior category in SVA violin concerto competition
-
-Other
-  - 2021-2024 - Designed logos for conferences and workshops: Crypto 2021, Crypto 2022, CFAIL 2022, PKC 2023, CFAIL 2023, CFAIL 2024, Crypto 2024
