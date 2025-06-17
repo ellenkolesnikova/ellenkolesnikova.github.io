@@ -4,9 +4,11 @@ layout: default
 
 Medicine: Safe+Natal
 ============
-[Paper](https://arxiv.org/abs/2503.09659){:target="_blank"} reporting on Safe+Natal work on improving pregnancy outcomes in Guatemala through an app that can conduct medical triage: 
+I am working with [safe+natal](https://safenatal.org/){:target="_blank"} on improving pregnancy healthcare in rural Guatemala through ML-based diagnostics and triage. More specifically, the goal of this project is to provide a simple system that enables rural midwives from underserved communities to conduct basic pregnancy monitoring and identify cases that need to be referred to hospitals. We distributed $200 health monitor kits (including smartphone and very basic devices such as BP monitors and 1-dimensional doppler ultrasounds) to local midwives. Indigenous Maya communities do not commonly use written language, so we automatically transcribe and interpret readings from the health devices to enable timely healthcare decisions. Safe+Natal is tremendously successful: integrated with a Mayan hospital, it reduced maternal mortality from one of the highest in the Western Hemisphere to nearly zero! 
 
+My role in this larger project is to develop and test image recognition software that transcribes readings from a blood pressure monitor. The challenge in this is to create an accurate model that works with all types of lighting and backgrounds.
 
+[Paper linked here](https://arxiv.org/abs/2503.09659){:target="_blank"}.
 
 
 Crypto: Private Repair of User-Flagged Failures in Text-to-Image Services
