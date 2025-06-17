@@ -13,7 +13,6 @@ This website is a work in progress. Check back for more updates!
 
 [Google Scholar](https://scholar.google.com/citations?user=HeZV8ywAAAAJ&hl=en){:target="_blank"}
 
-[NCWIT](https://www.aspirations.org/people/ellen-k/150541){:target="_blank"}
 
 Awards and Recognitions
 ============
@@ -21,7 +20,7 @@ Computer science
   - 2024 - 2nd place and 200 dollars in school STEM fair
   - 2024 - one of 19 people accepted into the GHP program for computer science
   - 2025 - 1st place and 500 dollars in school STEM fair
-  - 2025 - NCWIT Georgia Affiliate Winner
+  - 2025 - NCWIT Georgia Affiliate Winner ([link to profile](https://www.aspirations.org/people/ellen-k/150541){:target="_blank"})
 
 Violin
   - 2022 - winner of the MYSO Atlanta concerto competition; performed as soloist with MYSO Atlanta in February 2022
