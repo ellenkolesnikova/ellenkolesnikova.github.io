@@ -20,7 +20,7 @@ Work done as a part of an internship with [Prof. Xiao Wang (Northwestern Univers
 
 Digital Humanities: Identifying the author of a Medieval text
 ============
-The goal of this work was to identify the author of a medieval text - the \it{Passio Et Miracula Sancti Eadwardi Regis Et Martyris}. Our work proposes, with much evidence, an author for this text, disproving previous beliefs. 
+The goal of this work was to identify the author of a medieval text - the *Passio Et Miracula Sancti Eadwardi Regis Et Martyris*. Our work proposes, with much evidence, an author for this text, disproving previous beliefs. 
 
 Our approach to authorship identification was three-pronged: through traditional analysis, stylometric analysis, and machine learning. I was responsible for the machine learning part of this project; I trained an accurate model to distinguish the author (among four possible choices) of Latin text. When running the Passio through my model, it classified the text identically to my co-authors' traditional and stylometric analyses, thus corroborating their results. 
 
