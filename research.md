@@ -13,20 +13,22 @@ My role in this larger project is to develop and test image recognition software
 
 Crypto: Private Repair of User-Flagged Failures in Text-to-Image Services
 ============
-This project focuses on using cryptographic tools (namely secure multiparty computation) to securely remove bias from generative AI models. Consider the setting where a privately owned pre-trained model may be biased, e.g., it only generates images of men (not women) in leadership positions. The goal is to use an external party’s advice (which is also private) to finetune the model to eliminate the specific bias. We achieve this by computing on encrypted data.
+This project focuses on using cryptographic tools (namely secure multiparty computation) to securely remove bias from generative AI models. Consider the setting where a privately owned pre-trained model may be biased, e.g., it only generates images of men (not women) in leadership positions. The goal is to use an external party’s advice (which is also private) to fine-tune the model to eliminate the specific bias. We achieve this by computing on encrypted data.
 
 Work done as a part of an internship with Prof. Xiao Wang (Northwestern University); the resulting paper was submitted to NeurIPS 2025.
 
+
 Digital Humanities: Identifying the author of a Medieval text
 ============
+The goal of this work was to identify the author of a medieval text - the Passio Et Miracula Sancti Eadwardi Regis Et Martyris. Our work proposes, with much evidence, an author for this text, disproving previous beliefs. 
 
+Our approach to authorship identification was three-pronged: through traditional analysis, stylometric analysis, and machine learning. My work lay in the machine learning part of this project; I trained an accurate model to distinguish the author (among four possible choices) of Latin text. When running the Passio through my model, it was classified similarly to my co-authors' traditional and stylometric analyses.
 
-
-Collaboration with Georgia Tech’s Prof. Juliana Viezure and her student on using AI to attribute authorship of a medieval Latin text. Manuscript is in preparation for submission to a history journal.
+The resulting paper is in preparation for submission to a history journal.
 
 
 Misc. individual projects
 ============
 - [Some coding projects](https://github.com/ellenkolesnikova/projects){:target="_blank"} - several projects ranging from basic data structures to assembly code and AI
 - [A simple technical introduction to ZK proofs](https://ellenkolesnikova.github.io/assets/files/zkintro.pdf){:target="_blank"} - I wrote this when studying zero-knowledge proofs
-[A paper introducing backpropagation in neural networks](https://ellenkolesnikova.github.io/assets/files/neuralnetworks.pdf){:target="_blank"} - I wrote this for my AP calc class
+- [A paper introducing backpropagation in neural networks](https://ellenkolesnikova.github.io/assets/files/neuralnetworks.pdf){:target="_blank"} - I wrote this for my AP calc class
