@@ -23,7 +23,10 @@ I am interested in art and have designed logos for the following conferences: [C
 </style>
 
 <div class="art-grid">
-  <a href="https://crypto.iacr.org/2021/swag.php" target="_blank"><img src="https://ellenkolesnikova.github.io/assets/images/Crypto2021logo.png" alt="Art 1"></a>
-  <a href="https://www.cfail.org/cfail2022" target="_blank"><img src="https://ellenkolesnikova.github.io/assets/images/Cfail2022logo.png" alt="Art 2"></a>
-  <a href="https://pkc.iacr.org/2023/" target="_blank"><img src="https://ellenkolesnikova.github.io/assets/images/PKC2023logo.png" alt="Art 3"></a>
+  <a href="https://crypto.iacr.org/2021/swag.php" target="_blank"><img src="https://ellenkolesnikova.github.io/assets/images/Crypto2021logo.png" alt="Logo 1"></a>
+  <a href="" target="_blank"><img src="https://ellenkolesnikova.github.io/assets/images/Crypto2022logo.png" alt="Logo 4"></a>
+  <a href="https://www.cfail.org/cfail2022" target="_blank"><img src="https://ellenkolesnikova.github.io/assets/images/Cfail2022logo.png" alt="Logo 2"></a>
+  <a href="https://pkc.iacr.org/2023/" target="_blank"><img src="https://ellenkolesnikova.github.io/assets/images/PKC2023logo.png" alt="Logo 3"></a>
+  <a href="https://www.cfail.org/cfail2022" target="_blank"><img src="https://ellenkolesnikova.github.io/assets/images/Cfail2022logo.png" alt="Logo 5"></a>
+  <a href="https://pkc.iacr.org/2023/" target="_blank"><img src="https://ellenkolesnikova.github.io/assets/images/PKC2023logo.png" alt="Logo 6"></a>
 </div>
