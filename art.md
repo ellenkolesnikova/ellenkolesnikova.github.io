@@ -25,5 +25,5 @@ I am interested in art and have designed logos for the following conferences: [C
 <div class="art-grid">
   <a href="https://crypto.iacr.org/2021/swag.php" target="_blank"><img src="https://ellenkolesnikova.github.io/assets/images/Crypto2021logo.png" alt="Art 1"></a>
   <a href="https://www.cfail.org/cfail2022" target="_blank"><img src="https://ellenkolesnikova.github.io/assets/images/Cfail2022logo.png" alt="Art 2"></a>
-  <a href="https://pkc.iacr.org/2023/" target="_blank"><img src="https://ellenkolesnikova.github.io/assets/images/profile.png" alt="Art 3"></a>
+  <a href="https://pkc.iacr.org/2023/" target="_blank"><img src="https://ellenkolesnikova.github.io/assets/images/PKC2023logo.png" alt="Art 3"></a>
 </div>
