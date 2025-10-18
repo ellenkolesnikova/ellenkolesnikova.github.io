@@ -33,4 +33,5 @@ Misc. individual projects
 ============
 - [Some coding projects](https://github.com/ellenkolesnikova/projects){:target="_blank"} - several projects ranging from basic data structures to assembly code and AI
 - [A simple technical introduction to ZK proofs](https://ellenkolesnikova.github.io/assets/files/zkintro.pdf){:target="_blank"} - I wrote this when studying zero-knowledge proofs
+- [An animated video explaining ZK proofs in 2 minutes](https://www.youtube.com/watch?v=-hYwKgfPLn4){:target="_blank"}
 - [A paper introducing backpropagation in neural networks](https://ellenkolesnikova.github.io/assets/files/neuralnetworks.pdf){:target="_blank"} - I wrote this for my AP calc class
