@@ -1,5 +1,3 @@
-<h2>My CV</h2>
-
 <style>
 .cv-container {
     width: 100%;
