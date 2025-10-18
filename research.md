@@ -8,14 +8,15 @@ I am working with [safe+natal](https://safenatal.org/){:target="_blank"} (joint 
 
 My role in this larger project is to develop and test image recognition software that transcribes readings from an image of a blood pressure monitor (taken on the smartphones given to midwives). The challenge in this is to create an accurate system that works with all types of lighting and backgrounds.
 
-[Paper linked here](https://arxiv.org/abs/2503.09659){:target="_blank"}.
+[Paper linked here](https://arxiv.org/abs/2503.09659){:target="_blank"}; [presentation](https://drive.google.com/file/d/1LEsgceO8VNoviW6mQrvkb4g6fRpqcQzu/view){:target="_blank"}.
 
 
 Crypto: Private Repair of User-Flagged Failures in Text-to-Image Services
 ============
 This project focuses on using cryptographic tools (namely secure multiparty computation) to securely and privately remove bias from generative AI models. Consider the setting where a private pre-trained model may be biased, e.g., it only generates images of men (not women) in leadership positions. The goal is to use an external party’s advice (which is also private) to fine-tune the model to eliminate the specific bias. We achieve this by computing on encrypted data.
 
-Work done as a part of an internship with [Prof. Xiao Wang (Northwestern University)](https://wangxiao1254.github.io){:target="_blank"}; the resulting paper was accepted to NeurIPS 2025 as a poster.
+Work done as a part of an internship with [Prof. Xiao Wang (Northwestern University)](https://wangxiao1254.github.io){:target="_blank"}; paper accepted to NeurIPS 2025. [Paper linked here](https://ellenkolesnikova.github.io/assets/files/pin_the_tail.pdf){:target="_blank"}.
+
 
 
 Digital Humanities: Identifying the author of a Medieval text
@@ -24,7 +25,8 @@ The goal of this work (in collaboration with Prof. Juliana Viezure (Georgia Tech
 
 Our approach to authorship identification is three-pronged: through (1) traditional literary and historical analysis of the document, (2) standard stylometric analysis based on word frequency, and (3) machine learning. I am solely responsible for the machine learning part of this project; I trained an accurate model to distinguish the author (among four possible choices) of the examined Latin text. When running the *Passio* through my model, it classified the text with high confidence, corroborating and strengthening my co-authors' traditional and stylometric analyses.
 
-The corresponding paper is completed and will be submitted to a humanities journal.
+The corresponding paper is submitted to a humanities journal.
+[Abstract linked here](https://ellenkolesnikova.github.io/assets/files/passio_attribution_abstract.pdf){:target="_blank"}.
 
 
 Misc. individual projects
