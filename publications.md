@@ -6,6 +6,9 @@ Katebi N, Ahmad M, Motie-Shirazi M, Phan D, Kolesnikova E, Nikookar S, Rafiei A,
 [arXiv link](https://arxiv.org/abs/2503.09659){:target="_blank"};
 [Presentation](https://drive.google.com/file/d/1LEsgceO8VNoviW6mQrvkb4g6fRpqcQzu/view){:target="_blank"}
 
+An Open Large-Scale, Real-World Dataset of Blood Pressure Device Images and a Benchmark Algorithm for Edge Transcription. In submission.
+
+Training and Inference-time Augmentation of LCD Images for Improved Medical Device Digitization. In submission.
 
 Computational Analysis for Authorship Attribution: A Study of The ‘Passio et miracula S.
 Edwardi regis et martyris’. Juliana Viezure, Jacob Young, and Ellen Kolesnikova
