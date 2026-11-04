@@ -9,5 +9,5 @@ Katebi N, Ahmad M, Motie-Shirazi M, Phan D, Kolesnikova E, Nikookar S, Rafiei A,
 
 Computational Analysis for Authorship Attribution: A Study of The ‘Passio et miracula S.
 Edwardi regis et martyris’. Juliana Viezure, Jacob Young, and Ellen Kolesnikova
-In submission.
+Accepted for publication in [Mediaevistik](https://www.ingentaconnect.com/content/plg/med){:target="_blank"}.
 [Link to abstract](https://ellenkolesnikova.github.io/assets/files/passio_attribution_abstract.pdf){:target="_blank"}
