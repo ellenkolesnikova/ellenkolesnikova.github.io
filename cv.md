@@ -16,7 +16,7 @@
 </style>
 
 <div class="cv-container">
-    <iframe class="cv-iframe" src="/assets/files/cv.pdf"></iframe>
+    <iframe class="cv-iframe" src="/assets/files/resume.pdf"></iframe>
 </div>
 
 <p style="text-align:center; margin-top:10px;">
