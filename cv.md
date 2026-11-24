@@ -16,9 +16,9 @@
 </style>
 
 <div class="cv-container">
-    <iframe class="cv-iframe" src="/assets/files/resume.pdf"></iframe>
+    <iframe class="cv-iframe" src="/assets/files/Ellen_Kolesnikova_resume.pdf"></iframe>
 </div>
 
 <p style="text-align:center; margin-top:10px;">
-If the CV doesn’t load, you can <a href="/assets/files/cv.pdf" target="_blank">download it here</a>.
+If the CV doesn’t load, you can <a href="/assets/files/Ellen_Kolesnikova_resume.pdf" target="_blank">download it here</a>.
 </p>
